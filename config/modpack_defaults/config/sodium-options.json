@@ -1,1 +1,5 @@
-{"quality":{"weather_quality":"FAST"}}
+{
+	"performance": {
+		"leaf_culling_quality": "SOLID"
+	}
+}
