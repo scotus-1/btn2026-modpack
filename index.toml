@@ -322,6 +322,11 @@ hash = "4548677ce03174ad536896e445cb4b77f7757bdfa957592084ea31b02941b2c7"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "69a96afb665b11531714611ba692afd5b012a3a463ef695dd555b3f6ba41a1e7"
+metafile = true
+
+[[files]]
 file = "mods/config_manager.pw.toml"
 hash = "656140ce02ed1d7fe53773b81cc09bc804d77d09c55a9b9d734785e9cf4b8743"
 metafile = true
@@ -457,6 +462,11 @@ hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
@@ -542,6 +552,11 @@ hash = "af80a45db8c80c70745b608fca04e2890a2ca2eac3a4cf49891451b9d66b078e"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+hash = "10ba2803784c3e6867966f3a8cc93da077e8a2761d6f146537a8198542d77471"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "58a121a0519b3dc44076a8aa74994da5e0f94c6469e57b066e119e4129f87ec7"
 metafile = true
@@ -569,6 +584,16 @@ metafile = true
 [[files]]
 file = "mods/sspb.pw.toml"
 hash = "02b501d90c32539cf2bb25204bbc8d68c227ebed4fbeafc1e8b3c75c5aa075b4"
+metafile = true
+
+[[files]]
+file = "mods/torch-hit.pw.toml"
+hash = "2df70079f67db54d9679b622b55a2ba0dfde2c7314b2fd1549f638363300e0b3"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "59ce369b916c069fe3f024b7f0c3380c7d0df2d5fc913dfa788dcc703ea1eee4"
 metafile = true
 
 [[files]]
