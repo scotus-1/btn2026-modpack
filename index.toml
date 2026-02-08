@@ -282,6 +282,11 @@ hash = "23b3d1ad268ba3a1eaaea01b74ff3dd5ae9123c0cb0ba29ec85c98b0e6eadfba"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "7b587cd143d5f24804b6f20c6adb51816afd1f8167ab15f434d8b19ad725b7c6"
 metafile = true
@@ -304,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "35b9793a1e87175951af122d2cc46ca116679667dce4f51288e1ea7c42dc987a"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "eaa52d6ff1bcb539956d50626085d9185eca346fabcf6b3c176c53192b9958ec"
 metafile = true
 
 [[files]]
@@ -344,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "1032eb85c10b44f283742f362ce4f37f8eea55f724aa503f8f229fb4936099ed"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
 metafile = true
 
 [[files]]
@@ -467,6 +482,11 @@ hash = "42bea76780aec9949e1d84afe2eb1291c34d0788154e43a29b3727b486d119c8"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "e1b57bd130c090448759300ac6b610bc13de296aeb85d80b7f363e981be5f44b"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "614832d202c0033ee565bbac82d8762f66cb71be1616742939f77c43c65af458"
 metafile = true
@@ -512,8 +532,18 @@ hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+metafile = true
+
+[[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "af80a45db8c80c70745b608fca04e2890a2ca2eac3a4cf49891451b9d66b078e"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "58a121a0519b3dc44076a8aa74994da5e0f94c6469e57b066e119e4129f87ec7"
 metafile = true
 
 [[files]]
@@ -524,6 +554,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "a92b0ca1ad199d830f4bd7c79eec164f4e1c4746f8d62bc05b25671c9e62fb51"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
 metafile = true
 
 [[files]]
