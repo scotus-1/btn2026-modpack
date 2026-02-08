@@ -1,13 +1,16 @@
-name = "Fabulously Optimized"
+name = "btn2026-modpack"
 author = "robotkoer"
-version = "12.0.1"
+version = "0.1.0-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9d467d790aab9bb7c9d6a42e2b2bd972997e8fc27cc1fced42f208d7063f7dd5"
+hash = "9554b9fb276cfe3cba441b96a22f59811ea579f8308e39ae5283db060ed61f61"
 
 [versions]
 fabric = "0.18.4"
 minecraft = "1.21.11"
+
+[options]
+acceptable-game-versions = ["1.21.1", "1.21.4"]

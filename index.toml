@@ -69,14 +69,6 @@ file = "config/crash_assistant/crash_assistant_localization_overrides/zlm_arab.j
 hash = "1162b02477106b4a370307b1bf22325a18472f982345a97a3a4cba203a13abf4"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "f7812d671c1b8fcccbddc7018f0e01fd0d9e64c68169bb13e183419454c4db63"
-
-[[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "64fbe74c4dba8473b6f29b952ee4aaefb36058591f5708126c91d77dab0d363f"
-
-[[files]]
 file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -277,6 +269,20 @@ file = "config/modpack_defaults/options.txt"
 hash = "ef6e916dd12fe398041c063a7a0b70e8c8bdb6d4fb75533d3d14283337fd1654"
 
 [[files]]
+file = "config/sparsestructures.json5"
+hash = "8df39acd75e25f49ec4154358a7d8a8ab82dbfcba0ab663658ea5b3349040c99"
+
+[[files]]
+file = "mods/amplified-nether-height.pw.toml"
+hash = "0dd836d69aa4532f42b3d4284e4b9338fdd8599e6387bf8208d3ab5eeca55c14"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "a1524e5a45200daf351ac7d013db62086bb249b57632f29088d46dd7e10defc5"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "23b3d1ad268ba3a1eaaea01b74ff3dd5ae9123c0cb0ba29ec85c98b0e6eadfba"
 metafile = true
@@ -432,6 +438,21 @@ hash = "a3f8f76942f19ec593faa2734a5999f0239b9a8a5b82a4f5ace9450b280cd143"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "83650ffbad97ff20b09e8db87784ef4aa6d8d6857f55abe24f6e09bf900cb9af"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "95fed19a465903e4e536337ef42249eb455c0867f7693723bcee463d7a3b5020"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "d17e4ec2efbbdc672d3544d3b08b97844458aaf2307eb28a18f01291da1cb585"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
@@ -462,6 +483,11 @@ hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
 metafile = true
@@ -479,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "947facdba173dab28c9f46996fbdf22bb1da36b4187724783d9ab5085fab7de7"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "7e4721fe2c87159bc563ceb5d9ee08c28f6fcf1019ec9fa63bcd6ba252ac6a9a"
 metafile = true
 
 [[files]]
@@ -524,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b960f8be95afcf1a009ac6957f8622c031fd842f1aef4b0767a38c8eaf1ed94c"
+metafile = true
+
+[[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "c4d553888d9a2360d317a113c99fe771cd2cccf473d27d44ab5e9bc80de283f0"
 metafile = true
 
 [[files]]
@@ -582,8 +618,23 @@ hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "53936cfcde44a73ca8550eea86358cb3c13274ec8dfb838e90c792f53042ff97"
+metafile = true
+
+[[files]]
 file = "mods/sspb.pw.toml"
 hash = "02b501d90c32539cf2bb25204bbc8d68c227ebed4fbeafc1e8b3c75c5aa075b4"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "a66da60b40337e8bb57d81aef0f0c168771f2c6d8ae9d5e4af24031da2320795"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "9472dc630ee1dc9a345f49669323e1688c26662cee1fb6a2bb336e84a5dd0fd4"
 metafile = true
 
 [[files]]
@@ -604,6 +655,56 @@ metafile = true
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "fed427d0c3a97020b0f695f8538a37c5a82b8bf6f16a4df7e76dd7a8bc1f0dd8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "857b7027c1cf9b95b92351db0b4181a09b2400d3d28b8058bc026342ffa4a5f1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "03c9de99e29d26393d7e115c23f1f58aa6762b2f0d250dc5370e4190a8b59996"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "468f89f92aaa3afd233a5cb3b92223382e29de98d4ef55e740704cad771a226e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "392a8586644c2cb4bb9c21e8baa003fe2d6aeb44fe702b3ef8ab2ae6d8195c35"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "8486a973d0c16ba88d246d306654b70cd9f8b6917222807d614ca882f87b9687"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "1dce675e28d7339d5d1eac9a4bc8ca14de7d8ed00a95ab0839e2ea629adb2341"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "dbf64d6521cfbdf743e43d6e0b557280c3d7f9fe8d5bfbf77af231d2db1652e2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "fa37f706a6b5483711ba57f426ff154d71c0b3af789fd16dcbedbd801937c616"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "900a628e2a8b5cc4e1dc9066aecf2c0b71d294431c477d680ae1902ac388423e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "94bf126e1d8e567b8c6cfc40a170939c6d4dd33641381fe24ab7d2e0ebc8ee28"
 metafile = true
 
 [[files]]
@@ -628,4 +729,9 @@ hash = "c2de79bc0115074f8facbe445a85cb52817805b17bcd488c8420dfa708666ae1"
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "599182071b875fd7c07429efb75052eb9ca99d423182469add06e386b94bcf63"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
 metafile = true
