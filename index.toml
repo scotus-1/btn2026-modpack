@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4cd438bb56ad3a88f1495e12b52c005b035ee6983ddca1edf924af5298a2a787"
+hash = "ad7501adf411d4d8b1c752e837813ae03acfeeb9afb2b593c95b2adfe1d99824"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b422a2c74a256f17401a3825a189300053dfc825a11237d292764f6f33537e00"
+hash = "e7574a750f59a0c56e1230d032420a5fd606cad9d09f42ac77c024fc9c853da0"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "535bf5f89defd293c3441ea5a1572d20633c4cdead2fd0cad8a28f0c5a86c6cc"
+hash = "854dacb27acda6e35475b2818419038737de8e12c7de39de1676a641d6a9c487"
 metafile = true
 
 [[files]]
