@@ -1,0 +1,13 @@
+name = "CleanCut"
+filename = "cleancut-7.0-1.21.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CCNUnbXG/versions/vLOy4NK1/cleancut-7.0-1.21.4-fabric.jar"
+hash-format = "sha512"
+hash = "fae5688901e2f0eef8539d769dfc0cb9aed4a10dd5fed7ed5525e9110203faff0e540673bf7fe18cd483da7858d6b31c3fd0cf526e67599c2a24d14e03c0090a"
+
+[update]
+[update.modrinth]
+mod-id = "CCNUnbXG"
+version = "vLOy4NK1"
