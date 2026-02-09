@@ -1,12 +1,12 @@
 name = "btn2026-modpack"
-author = "robotkoer"
+author = "scotus1"
 version = "0.2.0-alpha"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6803210bf587c651672dc02f042e59c8164ffde0b897f3f0f4dc31b33dbbe1bf"
+hash = "0513fc2921bb26d111bb3bdf69be90744573a5f9e93bb34d1677c6c977339b11"
 
 [versions]
 fabric = "0.18.4"
