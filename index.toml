@@ -353,23 +353,8 @@ hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
 
 [[files]]
-file = "mods/cake-chomps.pw.toml"
-hash = "9affcfcc8ced5bebe82bfdaeddcc720fe024efbf3f390e95ba03caf05d6efe1f"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "35b9793a1e87175951af122d2cc46ca116679667dce4f51288e1ea7c42dc987a"
-metafile = true
-
-[[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "46886c1a213a1ca7d065c24dc2b553b4d234ec30e473832a0051fd811fc34ae2"
-metafile = true
-
-[[files]]
-file = "mods/cave-dust.pw.toml"
-hash = "a693ae12574e53fa67276c048d8541ab42d046d2517a515ea18e31c697c970c4"
 metafile = true
 
 [[files]]
@@ -385,21 +370,6 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "551d9247d8cbba099f84e416ac50fe322f82401eef6800d3bfa159be521acb9b"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
-metafile = true
-
-[[files]]
-file = "mods/cleancut.pw.toml"
-hash = "f6efd87183ea9d0435835a8f93882b16fca8d63db7851236765c83a8e4cc6d44"
-metafile = true
-
-[[files]]
-file = "mods/clear-despawn-reworked.pw.toml"
-hash = "2fa7faa73678a307fef063ccbd9b106dbc683321e02b71cbd4e652ccf0e8cdd3"
 metafile = true
 
 [[files]]
@@ -428,11 +398,6 @@ hash = "caef3fa85dbb541d56e979062fff9d624e3e0a2f7f31949424fca569bf4fb958"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "866ffb0594478eb04c5fac0d817082a53fc6b500227e7eb98d97cf659108cba5"
-metafile = true
-
-[[files]]
 file = "mods/crash_assistant.pw.toml"
 hash = "b054f3f180baf16065a098b53b32abc60a8fee6af72706652244c29dc7c59c09"
 metafile = true
@@ -443,23 +408,13 @@ hash = "b2cd070e7fab1d292c980e52e78279e06a62ad8fb8628a5e2a5f0ff5d9882455"
 metafile = true
 
 [[files]]
-file = "mods/cull-fewer-leaves.pw.toml"
-hash = "4ef3be26f051653205550a76d102601f87145a6712047d966ebaa77ae2fa2ebe"
-metafile = true
-
-[[files]]
-file = "mods/deathlog.pw.toml"
-hash = "10c4540b3e3ac07d8cf8b91939032d24f5b7d513d5c2a54507618a662628fe91"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "1032eb85c10b44f283742f362ce4f37f8eea55f724aa503f8f229fb4936099ed"
 metafile = true
 
 [[files]]
-file = "mods/detail-armor-bar.pw.toml"
-hash = "f40e996859e78555a081ea5578d4f74bb22eccc675d3b2c76c6cdbb51e731bcc"
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "eabf339ea4474e2aec057f993e149d5c45633b8432b05362fb0d430aade9d457"
 metafile = true
 
 [[files]]
@@ -485,11 +440,6 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "31d83314d0e43ede401ff8c36b4d0a40dcff9797d62ddb2f360fbd72ad392e3c"
-metafile = true
-
-[[files]]
-file = "mods/effective.pw.toml"
-hash = "2a421f249e7022255938fafdebf4a9d6490d62aecbabd48a9e9a3e52aacd4d0b"
 metafile = true
 
 [[files]]
@@ -563,16 +513,6 @@ hash = "a3f8f76942f19ec593faa2734a5999f0239b9a8a5b82a4f5ace9450b280cd143"
 metafile = true
 
 [[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "83650ffbad97ff20b09e8db87784ef4aa6d8d6857f55abe24f6e09bf900cb9af"
-metafile = true
-
-[[files]]
-file = "mods/highlight.pw.toml"
-hash = "3f44251b2d7b9a9d55ed0005eec132d7d33e92ba276879a878fd91fe94864a44"
-metafile = true
-
-[[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "95fed19a465903e4e536337ef42249eb455c0867f7693723bcee463d7a3b5020"
 metafile = true
@@ -609,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+hash = "2fb4ce2695c9f6da2087a5e350f2e85ea419de153e18bc20bf38f0b540c7caba"
 metafile = true
 
 [[files]]
@@ -738,11 +678,6 @@ hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
-file = "mods/seamless.pw.toml"
-hash = "393eaef3992d3f18d6d1a005859b1e3fee2e9c00618bbd8105b33a6dc82f4789"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
 metafile = true
@@ -823,11 +758,6 @@ hash = "9472dc630ee1dc9a345f49669323e1688c26662cee1fb6a2bb336e84a5dd0fd4"
 metafile = true
 
 [[files]]
-file = "mods/tooltip-overhaul.pw.toml"
-hash = "62192a6b9bb8d32393df0d91838ee50c3a98798d012d462da1905f62d018b42b"
-metafile = true
-
-[[files]]
 file = "mods/torch-hit.pw.toml"
 hash = "2df70079f67db54d9679b622b55a2ba0dfde2c7314b2fd1549f638363300e0b3"
 metafile = true
@@ -850,56 +780,6 @@ metafile = true
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "fed427d0c3a97020b0f695f8538a37c5a82b8bf6f16a4df7e76dd7a8bc1f0dd8"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "857b7027c1cf9b95b92351db0b4181a09b2400d3d28b8058bc026342ffa4a5f1"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "03c9de99e29d26393d7e115c23f1f58aa6762b2f0d250dc5370e4190a8b59996"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-hash = "468f89f92aaa3afd233a5cb3b92223382e29de98d4ef55e740704cad771a226e"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "392a8586644c2cb4bb9c21e8baa003fe2d6aeb44fe702b3ef8ab2ae6d8195c35"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "8486a973d0c16ba88d246d306654b70cd9f8b6917222807d614ca882f87b9687"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "1dce675e28d7339d5d1eac9a4bc8ca14de7d8ed00a95ab0839e2ea629adb2341"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "dbf64d6521cfbdf743e43d6e0b557280c3d7f9fe8d5bfbf77af231d2db1652e2"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "fa37f706a6b5483711ba57f426ff154d71c0b3af789fd16dcbedbd801937c616"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "900a628e2a8b5cc4e1dc9066aecf2c0b71d294431c477d680ae1902ac388423e"
-metafile = true
-
-[[files]]
-file = "mods/yungs-extras.pw.toml"
-hash = "94bf126e1d8e567b8c6cfc40a170939c6d4dd33641381fe24ab7d2e0ebc8ee28"
 metafile = true
 
 [[files]]
