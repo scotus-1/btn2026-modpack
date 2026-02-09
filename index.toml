@@ -343,6 +343,11 @@ hash = "24b0177dacb547321d83487699e13bf6f6fa004c0d8199dbcc0867b2c21097ee"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
@@ -380,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "551d9247d8cbba099f84e416ac50fe322f82401eef6800d3bfa159be521acb9b"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -788,6 +798,11 @@ hash = "53936cfcde44a73ca8550eea86358cb3c13274ec8dfb838e90c792f53042ff97"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "ac6bcad096289d2d7f4833c1cc4e43c8b913ab155ce0bcd271e13a567bcdf127"
+metafile = true
+
+[[files]]
 file = "mods/sspb.pw.toml"
 hash = "02b501d90c32539cf2bb25204bbc8d68c227ebed4fbeafc1e8b3c75c5aa075b4"
 metafile = true
@@ -912,6 +927,86 @@ hash = "599182071b875fd7c07429efb75052eb9ca99d423182469add06e386b94bcf63"
 metafile = true
 
 [[files]]
+file = "resourcepacks/alternative-rain-sounds.pw.toml"
+hash = "f5253943a66f2330dbf468c5850d268c859f82c44fa8f105ed39e99a70e2d148"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-items.pw.toml"
+hash = "b4707b5cbd0a91b0cac93a02c5db755442183cd3e2501143279628ec18774571"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "1ddef5225c80f959a9a74e9f765dc2bcbd2979c87f75e34171223e2789a9e235"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "d724504629a4c910394a280436d5f152fbbf61d188774cc43d55adaa8155b17f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancyfast-bushy-leaves.pw.toml"
+hash = "2a61421eeb20758224c372b28640103661c434f2ecbf4c15153f0a655a548591"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "d3571c12bae3b4ff244307f5f5bdfa1654175981eeda8d76059266eaa7d926fa"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "5eeb485c1c3d025337af5d452e452d93ee69ce5f454cb587b5b6e395273045d9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "b2f202f7437e122b0f62038fd99ac93898d7d36623ca3e7a1ec513c72623b071"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rethoughted-trident.pw.toml"
+hash = "4e4139b28e5dc8bfe73f94b406a6139abfd4133daab9fae80af3a2429da74012"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "d1bcb7475a0da24872c4829d6cbbb8aabcaa46bc048448ddf8ee9ea4993c14c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potions.pw.toml"
+hash = "04068eb4e791f540e90b43efac083243672ed3f0999754bca09ec7b1b49c9c3a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Rethoughted Trident"
+filename = "Rethoughted Trident.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QPNoRyDv/versions/Jpz3Vpnj/Rethoughted%20Trident.zip"
+hash-format = "sha512"
+hash = "d3f72bb5fa66aa1ba4abbd28bfdc04bc4e060a999bb83dc6d616521e8977b881a2fb105bd319aacd600a2063070cdee372916f7d6ee396b0699de89a13e1e5c8"
+
+[update]
+[update.modrinth]
+mod-id = "QPNoRyDv"
+version = "Jpz3Vpnj"

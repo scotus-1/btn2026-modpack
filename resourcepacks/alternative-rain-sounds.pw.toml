@@ -1,0 +1,13 @@
+name = "Alternative Rain Sounds"
+filename = "[Compressed] Alternative Rain Sounds 1.21.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IjeNkkG5/versions/lPxSSW8N/%5BCompressed%5D%20Alternative%20Rain%20Sounds%201.21.4.zip"
+hash-format = "sha512"
+hash = "cc332ccc87204880ce02036a718b9a0c1bcb9536ae6987182eaca7e0bf1522e5686e9405ef74f8c77d53f1ded053fa4130fa3972842c3ab0019bb202b3f4a574"
+
+[update]
+[update.modrinth]
+mod-id = "IjeNkkG5"
+version = "lPxSSW8N"
