@@ -733,8 +733,8 @@ hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
 metafile = true
 
 [[files]]
-file = "mods/sparsestructures.pw.toml"
-hash = "53936cfcde44a73ca8550eea86358cb3c13274ec8dfb838e90c792f53042ff97"
+file = "mods/spawn-animations-compats.pw.toml"
+hash = "706d2359222786aa97cd7a09da553b385bcf1de873f875e234e686cf3f5e8a01"
 metafile = true
 
 [[files]]
