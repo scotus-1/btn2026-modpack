@@ -498,6 +498,11 @@ hash = "59c7996ede39bb9227c21efbc7ded7db241456e314b5c5f00b5cb5cae3c4ca7f"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+hash = "ece34207ca75882863aa616328af686011fd554595b80a7858ddcc4848d5768d"
+metafile = true
+
+[[files]]
 file = "mods/forgeconfigapiport.pw.toml"
 hash = "f21073ecab797a66025836a6fd6deeb43e2a42d5e711aa8aaf6ce84cc4ece7c0"
 metafile = true
