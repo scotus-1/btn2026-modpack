@@ -478,6 +478,11 @@ hash = "c698766bdbac77ecb3ea9b9bb832cd625f6cf04f60fa0df851a5737bdffa8268"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "22bbce87836349a8e852d7c65b9ae4bfbecf5ee38225dd6a5b19a4239e952f3e"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "ef3621d29fd8d8f11c84ed5a12502fcf9dec10b17748d0f5912a2844e0464332"
 metafile = true
@@ -755,6 +760,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
+metafile = true
+
+[[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "61d849b5dd59f7f9ccf950bbce846363c89dacd6a68af977c7cfa2f29c0ef8a6"
 metafile = true
 
 [[files]]
